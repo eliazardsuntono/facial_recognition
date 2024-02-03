@@ -1,2 +1,3 @@
-# Facial Recognition Project!
-## This is a project that I am using to practice and use openCV
+# Facial Recognition Project! 
+## I am using openCV to do this project
+This project serves as a way to expand my knowledge on computer vision! 
